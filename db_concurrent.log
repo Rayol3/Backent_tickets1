@@ -1,0 +1,453 @@
+2025-06-09 14:38:25,193 - [DBUser_0  ] - INFO - [Thread-sedeB-140308293613248] 🎯 Iniciando acceso preferido a sedeB
+2025-06-09 14:38:25,194 - [MainThread] - INFO - 🧵 Lanzado thread 1/15 para sedeB
+2025-06-09 14:38:25,194 - [DBUser_0  ] - INFO - [Thread-sedeB-140308293613248] 🚀 Usuario USER_Thread-sedeB-140308293613248_7400 iniciando sesión...
+2025-06-09 14:38:25,194 - [DBUser_0  ] - INFO - [Thread-sedeB-140308293613248] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 14:38:25,295 - [DBUser_1  ] - INFO - [Thread-sedeA-140308285220544] 🎯 Iniciando acceso preferido a sedeA
+2025-06-09 14:38:25,295 - [MainThread] - INFO - 🧵 Lanzado thread 2/15 para sedeA
+2025-06-09 14:38:25,295 - [DBUser_1  ] - INFO - [Thread-sedeA-140308285220544] 🚀 Usuario USER_Thread-sedeA-140308285220544_1820 iniciando sesión...
+2025-06-09 14:38:25,296 - [DBUser_1  ] - INFO - [Thread-sedeA-140308285220544] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 14:38:25,396 - [DBUser_2  ] - INFO - [Thread-sedeB-140308276827840] 🎯 Iniciando acceso preferido a sedeB
+2025-06-09 14:38:25,397 - [MainThread] - INFO - 🧵 Lanzado thread 3/15 para sedeB
+2025-06-09 14:38:25,397 - [DBUser_2  ] - INFO - [Thread-sedeB-140308276827840] 🚀 Usuario USER_Thread-sedeB-140308276827840_5204 iniciando sesión...
+2025-06-09 14:38:25,397 - [DBUser_2  ] - INFO - [Thread-sedeB-140308276827840] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 14:38:25,498 - [DBUser_3  ] - INFO - [Thread-sedeB-140308058732224] 🎯 Iniciando acceso preferido a sedeB
+2025-06-09 14:38:25,498 - [MainThread] - INFO - 🧵 Lanzado thread 4/15 para sedeB
+2025-06-09 14:38:25,499 - [DBUser_3  ] - INFO - [Thread-sedeB-140308058732224] 🚀 Usuario USER_Thread-sedeB-140308058732224_6772 iniciando sesión...
+2025-06-09 14:38:25,499 - [DBUser_3  ] - INFO - [Thread-sedeB-140308058732224] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 14:38:25,600 - [DBUser_4  ] - INFO - [Thread-sedeA-140308050339520] 🎯 Iniciando acceso preferido a sedeA
+2025-06-09 14:38:25,600 - [MainThread] - INFO - 🧵 Lanzado thread 5/15 para sedeA
+2025-06-09 14:38:25,600 - [DBUser_4  ] - INFO - [Thread-sedeA-140308050339520] 🚀 Usuario USER_Thread-sedeA-140308050339520_1250 iniciando sesión...
+2025-06-09 14:38:25,600 - [DBUser_4  ] - INFO - [Thread-sedeA-140308050339520] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 14:38:25,701 - [DBUser_5  ] - INFO - [Thread-sedeC-140308041946816] 🎯 Iniciando acceso preferido a sedeC
+2025-06-09 14:38:25,701 - [MainThread] - INFO - 🧵 Lanzado thread 6/15 para sedeC
+2025-06-09 14:38:25,702 - [DBUser_5  ] - INFO - [Thread-sedeC-140308041946816] 🚀 Usuario USER_Thread-sedeC-140308041946816_8304 iniciando sesión...
+2025-06-09 14:38:25,702 - [DBUser_5  ] - INFO - [Thread-sedeC-140308041946816] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 14:38:25,803 - [DBUser_6  ] - INFO - [Thread-sedeA-140308033554112] 🎯 Iniciando acceso preferido a sedeA
+2025-06-09 14:38:25,803 - [MainThread] - INFO - 🧵 Lanzado thread 7/15 para sedeA
+2025-06-09 14:38:25,803 - [DBUser_6  ] - INFO - [Thread-sedeA-140308033554112] 🚀 Usuario USER_Thread-sedeA-140308033554112_7881 iniciando sesión...
+2025-06-09 14:38:25,803 - [DBUser_6  ] - INFO - [Thread-sedeA-140308033554112] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 14:38:25,904 - [DBUser_7  ] - INFO - [Thread-sedeA-140308025161408] 🎯 Iniciando acceso preferido a sedeA
+2025-06-09 14:38:25,904 - [MainThread] - INFO - 🧵 Lanzado thread 8/15 para sedeA
+2025-06-09 14:38:25,904 - [DBUser_7  ] - INFO - [Thread-sedeA-140308025161408] 🚀 Usuario USER_Thread-sedeA-140308025161408_7123 iniciando sesión...
+2025-06-09 14:38:25,905 - [DBUser_7  ] - INFO - [Thread-sedeA-140308025161408] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 14:38:26,005 - [DBUser_8  ] - INFO - [Thread-sedeB-140308016768704] 🎯 Iniciando acceso preferido a sedeB
+2025-06-09 14:38:26,006 - [MainThread] - INFO - 🧵 Lanzado thread 9/15 para sedeB
+2025-06-09 14:38:26,006 - [DBUser_8  ] - INFO - [Thread-sedeB-140308016768704] 🚀 Usuario USER_Thread-sedeB-140308016768704_4493 iniciando sesión...
+2025-06-09 14:38:26,006 - [DBUser_8  ] - INFO - [Thread-sedeB-140308016768704] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 14:38:26,107 - [DBUser_9  ] - INFO - [Thread-sedeA-140308008376000] 🎯 Iniciando acceso preferido a sedeA
+2025-06-09 14:38:26,108 - [MainThread] - INFO - 🧵 Lanzado thread 10/15 para sedeA
+2025-06-09 14:38:26,108 - [DBUser_9  ] - INFO - [Thread-sedeA-140308008376000] 🚀 Usuario USER_Thread-sedeA-140308008376000_2888 iniciando sesión...
+2025-06-09 14:38:26,109 - [DBUser_9  ] - INFO - [Thread-sedeA-140308008376000] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 14:38:26,209 - [DBUser_10 ] - INFO - [Thread-sedeA-140307521861312] 🎯 Iniciando acceso preferido a sedeA
+2025-06-09 14:38:26,210 - [MainThread] - INFO - 🧵 Lanzado thread 11/15 para sedeA
+2025-06-09 14:38:26,210 - [DBUser_10 ] - INFO - [Thread-sedeA-140307521861312] 🚀 Usuario USER_Thread-sedeA-140307521861312_7470 iniciando sesión...
+2025-06-09 14:38:26,210 - [DBUser_10 ] - INFO - [Thread-sedeA-140307521861312] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 14:38:26,311 - [DBUser_11 ] - INFO - [Thread-sedeC-140307513468608] 🎯 Iniciando acceso preferido a sedeC
+2025-06-09 14:38:26,311 - [MainThread] - INFO - 🧵 Lanzado thread 12/15 para sedeC
+2025-06-09 14:38:26,311 - [DBUser_11 ] - INFO - [Thread-sedeC-140307513468608] 🚀 Usuario USER_Thread-sedeC-140307513468608_4052 iniciando sesión...
+2025-06-09 14:38:26,312 - [DBUser_11 ] - INFO - [Thread-sedeC-140307513468608] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 14:38:26,413 - [DBUser_12 ] - INFO - [Thread-sedeB-140307505075904] 🎯 Iniciando acceso preferido a sedeB
+2025-06-09 14:38:26,413 - [MainThread] - INFO - 🧵 Lanzado thread 13/15 para sedeB
+2025-06-09 14:38:26,413 - [DBUser_12 ] - INFO - [Thread-sedeB-140307505075904] 🚀 Usuario USER_Thread-sedeB-140307505075904_9604 iniciando sesión...
+2025-06-09 14:38:26,414 - [DBUser_12 ] - INFO - [Thread-sedeB-140307505075904] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 14:38:26,514 - [DBUser_13 ] - INFO - [Thread-sedeA-140307496683200] 🎯 Iniciando acceso preferido a sedeA
+2025-06-09 14:38:26,514 - [MainThread] - INFO - 🧵 Lanzado thread 14/15 para sedeA
+2025-06-09 14:38:26,515 - [DBUser_13 ] - INFO - [Thread-sedeA-140307496683200] 🚀 Usuario USER_Thread-sedeA-140307496683200_3792 iniciando sesión...
+2025-06-09 14:38:26,515 - [DBUser_13 ] - INFO - [Thread-sedeA-140307496683200] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 14:38:26,616 - [DBUser_14 ] - INFO - [Thread-sedeA-140307488290496] 🎯 Iniciando acceso preferido a sedeA
+2025-06-09 14:38:26,616 - [MainThread] - INFO - 🧵 Lanzado thread 15/15 para sedeA
+2025-06-09 14:38:26,616 - [DBUser_14 ] - INFO - [Thread-sedeA-140307488290496] 🚀 Usuario USER_Thread-sedeA-140307488290496_2055 iniciando sesión...
+2025-06-09 14:38:26,617 - [DBUser_14 ] - INFO - [Thread-sedeA-140307488290496] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 14:38:41,114 - [DBUser_0  ] - INFO - [Thread-sedeB-140308293613248] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-09 14:38:41,114 - [DBUser_0  ] - INFO - [Thread-sedeB-140308293613248] 👤 Usuario USER_Thread-sedeB-140308293613248_7400 conectado a sedeA
+2025-06-09 14:38:42,746 - [DBUser_0  ] - INFO - [Thread-sedeB-140308293613248] 💰 USER_Thread-sedeB-140308293613248_7400 consultó ventas en venta_tickets
+2025-06-09 14:38:43,768 - [DBUser_0  ] - ERROR - [Thread-sedeB-140308293613248] Error ejecutando consulta: Unread result found
+2025-06-09 14:38:43,769 - [DBUser_0  ] - ERROR - [Thread-sedeB-140308293613248] ❌ Error en operación 1: Unread result found
+2025-06-09 14:38:43,769 - [DBUser_0  ] - ERROR - [Thread-sedeB-140308293613248] ❌ Error en operación 2: Unread result found
+2025-06-09 14:38:43,769 - [DBUser_0  ] - INFO - [Thread-sedeB-140308293613248] 📝 USER_Thread-sedeB-140308293613248_7400 insertó log de operación 3
+2025-06-09 14:38:43,871 - [DBUser_0  ] - ERROR - [Thread-sedeB-140308293613248] ❌ Error en operación 4: Unread result found
+2025-06-09 14:38:43,872 - [DBUser_0  ] - ERROR - [Thread-sedeB-140308293613248] ❌ Error en operación 5: Unread result found
+2025-06-09 14:38:43,872 - [DBUser_0  ] - INFO - [Thread-sedeB-140308293613248] 📝 USER_Thread-sedeB-140308293613248_7400 insertó log de operación 6
+2025-06-09 14:38:44,003 - [DBUser_0  ] - ERROR - [Thread-sedeB-140308293613248] ❌ Error en operación 7: Unread result found
+2025-06-09 14:38:44,003 - [DBUser_0  ] - INFO - [Thread-sedeB-140308293613248] ✅ Usuario USER_Thread-sedeB-140308293613248_7400 completó 3/8 operaciones
+2025-06-09 14:38:44,003 - [DBUser_0  ] - ERROR - [Thread-sedeB-140308293613248] ❌ Error crítico: Unread result found
+2025-06-09 14:38:51,961 - [DBUser_2  ] - INFO - [Thread-sedeB-140308276827840] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-09 14:38:51,961 - [DBUser_2  ] - INFO - [Thread-sedeB-140308276827840] 👤 Usuario USER_Thread-sedeB-140308276827840_5204 conectado a sedeA
+2025-06-09 14:38:52,790 - [DBUser_2  ] - ERROR - [Thread-sedeB-140308276827840] Error ejecutando consulta: Unread result found
+2025-06-09 14:38:52,791 - [DBUser_2  ] - ERROR - [Thread-sedeB-140308276827840] ❌ Error en operación 0: Unread result found
+2025-06-09 14:38:52,791 - [DBUser_2  ] - ERROR - [Thread-sedeB-140308276827840] ❌ Error en operación 1: Unread result found
+2025-06-09 14:38:52,791 - [DBUser_2  ] - ERROR - [Thread-sedeB-140308276827840] ❌ Error en operación 2: Unread result found
+2025-06-09 14:38:52,791 - [DBUser_2  ] - ERROR - [Thread-sedeB-140308276827840] ❌ Error en operación 3: Unread result found
+2025-06-09 14:38:52,791 - [DBUser_2  ] - INFO - [Thread-sedeB-140308276827840] 📝 USER_Thread-sedeB-140308276827840_5204 insertó log de operación 4
+2025-06-09 14:38:53,260 - [DBUser_2  ] - ERROR - [Thread-sedeB-140308276827840] ❌ Error en operación 5: Unread result found
+2025-06-09 14:38:53,260 - [DBUser_2  ] - ERROR - [Thread-sedeB-140308276827840] ❌ Error en operación 6: Unread result found
+2025-06-09 14:38:53,261 - [DBUser_2  ] - ERROR - [Thread-sedeB-140308276827840] ❌ Error en operación 7: Unread result found
+2025-06-09 14:38:53,261 - [DBUser_2  ] - INFO - [Thread-sedeB-140308276827840] ✅ Usuario USER_Thread-sedeB-140308276827840_5204 completó 1/8 operaciones
+2025-06-09 14:38:53,261 - [DBUser_2  ] - ERROR - [Thread-sedeB-140308276827840] ❌ Error crítico: Unread result found
+2025-06-09 14:38:57,011 - [DBUser_4  ] - ERROR - [Thread-sedeA-140308050339520] Error conectando a Database A (Sede Principal): 2013 (HY000): Lost connection to MySQL server at 'waiting for initial communication packet', system error: 110
+2025-06-09 14:38:57,012 - [DBUser_4  ] - WARNING - [Thread-sedeA-140308050339520] ❌ Intento 1/3 falló, reintentando...
+2025-06-09 14:39:11,102 - [DBUser_5  ] - INFO - [Thread-sedeC-140308041946816] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-09 14:39:11,102 - [DBUser_5  ] - INFO - [Thread-sedeC-140308041946816] 👤 Usuario USER_Thread-sedeC-140308041946816_8304 conectado a sedeA
+2025-06-09 14:39:11,102 - [DBUser_5  ] - INFO - [Thread-sedeC-140308041946816] 📝 USER_Thread-sedeC-140308041946816_8304 insertó log de operación 0
+2025-06-09 14:39:11,451 - [DBUser_5  ] - INFO - [Thread-sedeC-140308041946816] 📝 USER_Thread-sedeC-140308041946816_8304 insertó log de operación 1
+2025-06-09 14:39:14,686 - [DBUser_5  ] - ERROR - [Thread-sedeC-140308041946816] Error ejecutando consulta: Unread result found
+2025-06-09 14:39:14,687 - [DBUser_5  ] - ERROR - [Thread-sedeC-140308041946816] ❌ Error en operación 2: Unread result found
+2025-06-09 14:39:14,687 - [DBUser_5  ] - INFO - [Thread-sedeC-140308041946816] 📝 USER_Thread-sedeC-140308041946816_8304 insertó log de operación 3
+2025-06-09 14:39:14,820 - [DBUser_5  ] - ERROR - [Thread-sedeC-140308041946816] ❌ Error en operación 4: Unread result found
+2025-06-09 14:39:14,820 - [DBUser_5  ] - ERROR - [Thread-sedeC-140308041946816] ❌ Error en operación 5: Unread result found
+2025-06-09 14:39:14,820 - [DBUser_5  ] - ERROR - [Thread-sedeC-140308041946816] ❌ Error en operación 6: Unread result found
+2025-06-09 14:39:14,820 - [DBUser_5  ] - INFO - [Thread-sedeC-140308041946816] 📝 USER_Thread-sedeC-140308041946816_8304 insertó log de operación 7
+2025-06-09 14:39:15,095 - [DBUser_5  ] - INFO - [Thread-sedeC-140308041946816] ✅ Usuario USER_Thread-sedeC-140308041946816_8304 completó 4/8 operaciones
+2025-06-09 14:39:15,095 - [DBUser_5  ] - ERROR - [Thread-sedeC-140308041946816] ❌ Error crítico: Unread result found
+2025-06-09 15:05:12,960 - [DBUser_0  ] - INFO - [Thread-sedeA-140659656750784] 🎯 Iniciando acceso preferido a sedeA
+2025-06-09 15:05:12,961 - [DBUser_0  ] - INFO - [Thread-sedeA-140659656750784] 🚀 Usuario USER_Thread-sedeA-140659656750784_8033 iniciando sesión...
+2025-06-09 15:05:12,960 - [MainThread] - INFO - 🧵 Lanzado thread 1/15 para sedeA
+2025-06-09 15:05:12,961 - [DBUser_0  ] - INFO - [Thread-sedeA-140659656750784] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 15:05:13,062 - [DBUser_1  ] - INFO - [Thread-sedeC-140659574961856] 🎯 Iniciando acceso preferido a sedeC
+2025-06-09 15:05:13,062 - [MainThread] - INFO - 🧵 Lanzado thread 2/15 para sedeC
+2025-06-09 15:05:13,062 - [DBUser_1  ] - INFO - [Thread-sedeC-140659574961856] 🚀 Usuario USER_Thread-sedeC-140659574961856_8325 iniciando sesión...
+2025-06-09 15:05:13,063 - [DBUser_1  ] - INFO - [Thread-sedeC-140659574961856] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 15:05:13,163 - [DBUser_2  ] - INFO - [Thread-sedeC-140659566569152] 🎯 Iniciando acceso preferido a sedeC
+2025-06-09 15:05:13,164 - [MainThread] - INFO - 🧵 Lanzado thread 3/15 para sedeC
+2025-06-09 15:05:13,164 - [DBUser_2  ] - INFO - [Thread-sedeC-140659566569152] 🚀 Usuario USER_Thread-sedeC-140659566569152_1639 iniciando sesión...
+2025-06-09 15:05:13,164 - [DBUser_2  ] - INFO - [Thread-sedeC-140659566569152] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 15:05:13,265 - [DBUser_3  ] - INFO - [Thread-sedeA-140659558176448] 🎯 Iniciando acceso preferido a sedeA
+2025-06-09 15:05:13,265 - [MainThread] - INFO - 🧵 Lanzado thread 4/15 para sedeA
+2025-06-09 15:05:13,265 - [DBUser_3  ] - INFO - [Thread-sedeA-140659558176448] 🚀 Usuario USER_Thread-sedeA-140659558176448_4020 iniciando sesión...
+2025-06-09 15:05:13,266 - [DBUser_3  ] - INFO - [Thread-sedeA-140659558176448] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 15:05:13,366 - [DBUser_4  ] - INFO - [Thread-sedeB-140659549783744] 🎯 Iniciando acceso preferido a sedeB
+2025-06-09 15:05:13,367 - [MainThread] - INFO - 🧵 Lanzado thread 5/15 para sedeB
+2025-06-09 15:05:13,367 - [DBUser_4  ] - INFO - [Thread-sedeB-140659549783744] 🚀 Usuario USER_Thread-sedeB-140659549783744_4351 iniciando sesión...
+2025-06-09 15:05:13,367 - [DBUser_4  ] - INFO - [Thread-sedeB-140659549783744] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 15:05:13,468 - [DBUser_5  ] - INFO - [Thread-sedeC-140659541391040] 🎯 Iniciando acceso preferido a sedeC
+2025-06-09 15:05:13,468 - [MainThread] - INFO - 🧵 Lanzado thread 6/15 para sedeC
+2025-06-09 15:05:13,469 - [DBUser_5  ] - INFO - [Thread-sedeC-140659541391040] 🚀 Usuario USER_Thread-sedeC-140659541391040_6337 iniciando sesión...
+2025-06-09 15:05:13,469 - [DBUser_5  ] - INFO - [Thread-sedeC-140659541391040] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 15:05:13,570 - [DBUser_6  ] - INFO - [Thread-sedeA-140659532998336] 🎯 Iniciando acceso preferido a sedeA
+2025-06-09 15:05:13,570 - [MainThread] - INFO - 🧵 Lanzado thread 7/15 para sedeA
+2025-06-09 15:05:13,570 - [DBUser_6  ] - INFO - [Thread-sedeA-140659532998336] 🚀 Usuario USER_Thread-sedeA-140659532998336_8173 iniciando sesión...
+2025-06-09 15:05:13,571 - [DBUser_6  ] - INFO - [Thread-sedeA-140659532998336] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 15:05:13,671 - [DBUser_7  ] - INFO - [Thread-sedeC-140659524605632] 🎯 Iniciando acceso preferido a sedeC
+2025-06-09 15:05:13,672 - [MainThread] - INFO - 🧵 Lanzado thread 8/15 para sedeC
+2025-06-09 15:05:13,672 - [DBUser_7  ] - INFO - [Thread-sedeC-140659524605632] 🚀 Usuario USER_Thread-sedeC-140659524605632_9386 iniciando sesión...
+2025-06-09 15:05:13,672 - [DBUser_7  ] - INFO - [Thread-sedeC-140659524605632] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 15:05:13,773 - [DBUser_8  ] - INFO - [Thread-sedeA-140659038090944] 🎯 Iniciando acceso preferido a sedeA
+2025-06-09 15:05:13,773 - [MainThread] - INFO - 🧵 Lanzado thread 9/15 para sedeA
+2025-06-09 15:05:13,774 - [DBUser_8  ] - INFO - [Thread-sedeA-140659038090944] 🚀 Usuario USER_Thread-sedeA-140659038090944_7664 iniciando sesión...
+2025-06-09 15:05:13,774 - [DBUser_8  ] - INFO - [Thread-sedeA-140659038090944] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 15:05:13,875 - [DBUser_9  ] - INFO - [Thread-sedeA-140659029698240] 🎯 Iniciando acceso preferido a sedeA
+2025-06-09 15:05:13,876 - [MainThread] - INFO - 🧵 Lanzado thread 10/15 para sedeA
+2025-06-09 15:05:13,876 - [DBUser_9  ] - INFO - [Thread-sedeA-140659029698240] 🚀 Usuario USER_Thread-sedeA-140659029698240_1317 iniciando sesión...
+2025-06-09 15:05:13,876 - [DBUser_9  ] - INFO - [Thread-sedeA-140659029698240] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 15:05:13,977 - [DBUser_10 ] - INFO - [Thread-sedeA-140659021305536] 🎯 Iniciando acceso preferido a sedeA
+2025-06-09 15:05:13,977 - [MainThread] - INFO - 🧵 Lanzado thread 11/15 para sedeA
+2025-06-09 15:05:13,977 - [DBUser_10 ] - INFO - [Thread-sedeA-140659021305536] 🚀 Usuario USER_Thread-sedeA-140659021305536_5451 iniciando sesión...
+2025-06-09 15:05:13,977 - [DBUser_10 ] - INFO - [Thread-sedeA-140659021305536] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 15:05:14,078 - [DBUser_11 ] - INFO - [Thread-sedeC-140659012912832] 🎯 Iniciando acceso preferido a sedeC
+2025-06-09 15:05:14,078 - [MainThread] - INFO - 🧵 Lanzado thread 12/15 para sedeC
+2025-06-09 15:05:14,078 - [DBUser_11 ] - INFO - [Thread-sedeC-140659012912832] 🚀 Usuario USER_Thread-sedeC-140659012912832_7590 iniciando sesión...
+2025-06-09 15:05:14,079 - [DBUser_11 ] - INFO - [Thread-sedeC-140659012912832] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 15:05:14,179 - [DBUser_12 ] - INFO - [Thread-sedeB-140659004520128] 🎯 Iniciando acceso preferido a sedeB
+2025-06-09 15:05:14,179 - [MainThread] - INFO - 🧵 Lanzado thread 13/15 para sedeB
+2025-06-09 15:05:14,180 - [DBUser_12 ] - INFO - [Thread-sedeB-140659004520128] 🚀 Usuario USER_Thread-sedeB-140659004520128_5424 iniciando sesión...
+2025-06-09 15:05:14,180 - [DBUser_12 ] - INFO - [Thread-sedeB-140659004520128] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 15:05:14,281 - [DBUser_13 ] - INFO - [Thread-sedeB-140658996127424] 🎯 Iniciando acceso preferido a sedeB
+2025-06-09 15:05:14,281 - [MainThread] - INFO - 🧵 Lanzado thread 14/15 para sedeB
+2025-06-09 15:05:14,281 - [DBUser_13 ] - INFO - [Thread-sedeB-140658996127424] 🚀 Usuario USER_Thread-sedeB-140658996127424_6457 iniciando sesión...
+2025-06-09 15:05:14,282 - [DBUser_13 ] - INFO - [Thread-sedeB-140658996127424] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 15:05:14,383 - [DBUser_14 ] - INFO - [Thread-sedeA-140658987734720] 🎯 Iniciando acceso preferido a sedeA
+2025-06-09 15:05:14,383 - [MainThread] - INFO - 🧵 Lanzado thread 15/15 para sedeA
+2025-06-09 15:05:14,383 - [DBUser_14 ] - INFO - [Thread-sedeA-140658987734720] 🚀 Usuario USER_Thread-sedeA-140658987734720_1598 iniciando sesión...
+2025-06-09 15:05:14,384 - [DBUser_14 ] - INFO - [Thread-sedeA-140658987734720] Intentando conectar a Database A (Sede Principal)...
+2025-06-09 15:05:22,832 - [DBUser_0  ] - INFO - [Thread-sedeA-140659656750784] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-09 15:05:22,832 - [DBUser_0  ] - INFO - [Thread-sedeA-140659656750784] 👤 Usuario USER_Thread-sedeA-140659656750784_8033 conectado a sedeA
+2025-06-09 15:05:23,856 - [DBUser_0  ] - ERROR - [Thread-sedeA-140659656750784] Error ejecutando consulta: Unread result found
+2025-06-09 15:05:23,856 - [DBUser_0  ] - ERROR - [Thread-sedeA-140659656750784] ❌ Error en operación 0: Unread result found
+2025-06-09 15:05:23,856 - [DBUser_0  ] - INFO - [Thread-sedeA-140659656750784] 📝 USER_Thread-sedeA-140659656750784_8033 insertó log de operación 1
+2025-06-09 15:05:24,219 - [DBUser_0  ] - ERROR - [Thread-sedeA-140659656750784] ❌ Error en operación 2: Unread result found
+2025-06-09 15:05:24,220 - [DBUser_0  ] - ERROR - [Thread-sedeA-140659656750784] ❌ Error en operación 3: Unread result found
+2025-06-09 15:05:24,220 - [DBUser_0  ] - INFO - [Thread-sedeA-140659656750784] 📝 USER_Thread-sedeA-140659656750784_8033 insertó log de operación 4
+2025-06-09 15:05:24,473 - [DBUser_0  ] - INFO - [Thread-sedeA-140659656750784] 📝 USER_Thread-sedeA-140659656750784_8033 insertó log de operación 5
+2025-06-09 15:05:24,880 - [DBUser_0  ] - ERROR - [Thread-sedeA-140659656750784] ❌ Error en operación 6: Unread result found
+2025-06-09 15:05:24,881 - [DBUser_0  ] - ERROR - [Thread-sedeA-140659656750784] ❌ Error en operación 7: Unread result found
+2025-06-09 15:05:24,881 - [DBUser_0  ] - INFO - [Thread-sedeA-140659656750784] ✅ Usuario USER_Thread-sedeA-140659656750784_8033 completó 3/8 operaciones
+2025-06-09 15:05:24,881 - [DBUser_0  ] - ERROR - [Thread-sedeA-140659656750784] ❌ Error crítico: Unread result found
+2025-06-09 15:05:29,590 - [DBUser_2  ] - INFO - [Thread-sedeC-140659566569152] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-09 15:05:29,590 - [DBUser_2  ] - INFO - [Thread-sedeC-140659566569152] 👤 Usuario USER_Thread-sedeC-140659566569152_1639 conectado a sedeA
+2025-06-09 15:05:30,409 - [DBUser_2  ] - INFO - [Thread-sedeC-140659566569152] 💰 USER_Thread-sedeC-140659566569152_1639 consultó ventas en venta_tickets
+2025-06-09 15:05:30,967 - [DBUser_2  ] - INFO - [Thread-sedeC-140659566569152] 📝 USER_Thread-sedeC-140659566569152_1639 insertó log de operación 1
+2025-06-09 15:05:32,661 - [DBUser_2  ] - INFO - [Thread-sedeC-140659566569152] 💰 USER_Thread-sedeC-140659566569152_1639 consultó ventas en venta_tickets
+2025-06-09 15:05:33,891 - [DBUser_2  ] - INFO - [Thread-sedeC-140659566569152] 👥 USER_Thread-sedeC-140659566569152_1639 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-09 15:05:34,915 - [DBUser_2  ] - INFO - [Thread-sedeC-140659566569152] 👥 USER_Thread-sedeC-140659566569152_1639 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-09 15:05:36,355 - [DBUser_2  ] - ERROR - [Thread-sedeC-140659566569152] Error ejecutando consulta: Unread result found
+2025-06-09 15:05:36,559 - [DBUser_2  ] - ERROR - [Thread-sedeC-140659566569152] ❌ Error en operación 5: Unread result found
+2025-06-09 15:05:37,576 - [DBUser_2  ] - ERROR - [Thread-sedeC-140659566569152] ❌ Error en operación 6: Unread result found
+2025-06-09 15:05:37,577 - [DBUser_2  ] - ERROR - [Thread-sedeC-140659566569152] ❌ Error en operación 7: Unread result found
+2025-06-09 15:05:37,577 - [DBUser_2  ] - INFO - [Thread-sedeC-140659566569152] ✅ Usuario USER_Thread-sedeC-140659566569152_1639 completó 5/8 operaciones
+2025-06-09 15:05:37,577 - [DBUser_2  ] - ERROR - [Thread-sedeC-140659566569152] ❌ Error crítico: Unread result found
+2025-06-09 15:05:37,781 - [DBUser_4  ] - INFO - [Thread-sedeB-140659549783744] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-09 15:05:37,782 - [DBUser_4  ] - INFO - [Thread-sedeB-140659549783744] 👤 Usuario USER_Thread-sedeB-140659549783744_4351 conectado a sedeA
+2025-06-09 15:05:38,402 - [DBUser_4  ] - INFO - [Thread-sedeB-140659549783744] 💰 USER_Thread-sedeB-140659549783744_4351 consultó ventas en venta_tickets
+2025-06-09 15:05:39,429 - [DBUser_4  ] - ERROR - [Thread-sedeB-140659549783744] Error ejecutando consulta: Unread result found
+2025-06-09 15:05:39,624 - [DBUser_4  ] - ERROR - [Thread-sedeB-140659549783744] ❌ Error en operación 1: Unread result found
+2025-06-09 15:05:39,625 - [DBUser_4  ] - INFO - [Thread-sedeB-140659549783744] 📝 USER_Thread-sedeB-140659549783744_4351 insertó log de operación 2
+2025-06-09 15:05:39,961 - [DBUser_4  ] - INFO - [Thread-sedeB-140659549783744] 📝 USER_Thread-sedeB-140659549783744_4351 insertó log de operación 3
+2025-06-09 15:05:40,447 - [DBUser_4  ] - ERROR - [Thread-sedeB-140659549783744] ❌ Error en operación 4: Unread result found
+2025-06-09 15:05:40,447 - [DBUser_4  ] - ERROR - [Thread-sedeB-140659549783744] ❌ Error en operación 5: Unread result found
+2025-06-09 15:05:40,447 - [DBUser_4  ] - INFO - [Thread-sedeB-140659549783744] 📝 USER_Thread-sedeB-140659549783744_4351 insertó log de operación 6
+2025-06-09 15:05:40,724 - [DBUser_4  ] - ERROR - [Thread-sedeB-140659549783744] ❌ Error en operación 7: Unread result found
+2025-06-09 15:05:40,724 - [DBUser_4  ] - INFO - [Thread-sedeB-140659549783744] ✅ Usuario USER_Thread-sedeB-140659549783744_4351 completó 4/8 operaciones
+2025-06-09 15:05:40,724 - [DBUser_4  ] - ERROR - [Thread-sedeB-140659549783744] ❌ Error crítico: Unread result found
+2025-06-11 14:12:07,046 - [DBUser_0  ] - INFO - [Thread-sedeB-140527842358976] 🎯 Iniciando acceso preferido a sedeB
+2025-06-11 14:12:07,046 - [MainThread] - INFO - 🧵 Lanzado thread 1/15 para sedeB
+2025-06-11 14:12:07,047 - [DBUser_0  ] - INFO - [Thread-sedeB-140527842358976] 🚀 Usuario USER_Thread-sedeB-140527842358976_2007 iniciando sesión...
+2025-06-11 14:12:07,047 - [DBUser_0  ] - INFO - [Thread-sedeB-140527842358976] Intentando conectar a Database A (Sede Principal)...
+2025-06-11 14:12:07,094 - [DBUser_0  ] - INFO - [Thread-sedeB-140527842358976] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-11 14:12:07,095 - [DBUser_0  ] - INFO - [Thread-sedeB-140527842358976] 👤 Usuario USER_Thread-sedeB-140527842358976_2007 conectado a sedeA
+2025-06-11 14:12:07,103 - [DBUser_0  ] - INFO - [Thread-sedeB-140527842358976] 👥 USER_Thread-sedeB-140527842358976_2007 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-11 14:12:07,148 - [DBUser_1  ] - INFO - [Thread-sedeC-140527833966272] 🎯 Iniciando acceso preferido a sedeC
+2025-06-11 14:12:07,148 - [MainThread] - INFO - 🧵 Lanzado thread 2/15 para sedeC
+2025-06-11 14:12:07,148 - [DBUser_1  ] - INFO - [Thread-sedeC-140527833966272] 🚀 Usuario USER_Thread-sedeC-140527833966272_1823 iniciando sesión...
+2025-06-11 14:12:07,149 - [DBUser_1  ] - INFO - [Thread-sedeC-140527833966272] Intentando conectar a Database A (Sede Principal)...
+2025-06-11 14:12:07,176 - [DBUser_1  ] - INFO - [Thread-sedeC-140527833966272] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-11 14:12:07,176 - [DBUser_1  ] - INFO - [Thread-sedeC-140527833966272] 👤 Usuario USER_Thread-sedeC-140527833966272_1823 conectado a sedeA
+2025-06-11 14:12:07,180 - [DBUser_1  ] - ERROR - [Thread-sedeC-140527833966272] Error ejecutando consulta: Unread result found
+2025-06-11 14:12:07,181 - [DBUser_1  ] - ERROR - [Thread-sedeC-140527833966272] ❌ Error en operación 0: Unread result found
+2025-06-11 14:12:07,181 - [DBUser_1  ] - INFO - [Thread-sedeC-140527833966272] 📝 USER_Thread-sedeC-140527833966272_1823 insertó log de operación 1
+2025-06-11 14:12:07,249 - [DBUser_2  ] - INFO - [Thread-sedeA-140527825573568] 🎯 Iniciando acceso preferido a sedeA
+2025-06-11 14:12:07,249 - [MainThread] - INFO - 🧵 Lanzado thread 3/15 para sedeA
+2025-06-11 14:12:07,250 - [DBUser_2  ] - INFO - [Thread-sedeA-140527825573568] 🚀 Usuario USER_Thread-sedeA-140527825573568_9096 iniciando sesión...
+2025-06-11 14:12:07,250 - [DBUser_2  ] - INFO - [Thread-sedeA-140527825573568] Intentando conectar a Database A (Sede Principal)...
+2025-06-11 14:12:07,278 - [DBUser_0  ] - ERROR - [Thread-sedeB-140527842358976] Error ejecutando consulta: Unread result found
+2025-06-11 14:12:07,278 - [DBUser_0  ] - ERROR - [Thread-sedeB-140527842358976] ❌ Error en operación 1: Unread result found
+2025-06-11 14:12:07,278 - [DBUser_0  ] - INFO - [Thread-sedeB-140527842358976] 📝 USER_Thread-sedeB-140527842358976_2007 insertó log de operación 2
+2025-06-11 14:12:07,294 - [DBUser_2  ] - INFO - [Thread-sedeA-140527825573568] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-11 14:12:07,294 - [DBUser_2  ] - INFO - [Thread-sedeA-140527825573568] 👤 Usuario USER_Thread-sedeA-140527825573568_9096 conectado a sedeA
+2025-06-11 14:12:07,300 - [DBUser_2  ] - INFO - [Thread-sedeA-140527825573568] 💰 USER_Thread-sedeA-140527825573568_9096 consultó ventas en venta_tickets
+2025-06-11 14:12:07,351 - [DBUser_3  ] - INFO - [Thread-sedeA-140527817180864] 🎯 Iniciando acceso preferido a sedeA
+2025-06-11 14:12:07,351 - [MainThread] - INFO - 🧵 Lanzado thread 4/15 para sedeA
+2025-06-11 14:12:07,351 - [DBUser_3  ] - INFO - [Thread-sedeA-140527817180864] 🚀 Usuario USER_Thread-sedeA-140527817180864_8513 iniciando sesión...
+2025-06-11 14:12:07,352 - [DBUser_3  ] - INFO - [Thread-sedeA-140527817180864] Intentando conectar a Database A (Sede Principal)...
+2025-06-11 14:12:07,384 - [DBUser_3  ] - INFO - [Thread-sedeA-140527817180864] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-11 14:12:07,384 - [DBUser_3  ] - INFO - [Thread-sedeA-140527817180864] 👤 Usuario USER_Thread-sedeA-140527817180864_8513 conectado a sedeA
+2025-06-11 14:12:07,386 - [DBUser_3  ] - INFO - [Thread-sedeA-140527817180864] 👥 USER_Thread-sedeA-140527817180864_8513 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-11 14:12:07,453 - [DBUser_4  ] - INFO - [Thread-sedeC-140527808788160] 🎯 Iniciando acceso preferido a sedeC
+2025-06-11 14:12:07,453 - [MainThread] - INFO - 🧵 Lanzado thread 5/15 para sedeC
+2025-06-11 14:12:07,453 - [DBUser_4  ] - INFO - [Thread-sedeC-140527808788160] 🚀 Usuario USER_Thread-sedeC-140527808788160_9707 iniciando sesión...
+2025-06-11 14:12:07,454 - [DBUser_4  ] - INFO - [Thread-sedeC-140527808788160] Intentando conectar a Database A (Sede Principal)...
+2025-06-11 14:12:07,469 - [DBUser_1  ] - ERROR - [Thread-sedeC-140527833966272] ❌ Error en operación 2: Unread result found
+2025-06-11 14:12:07,469 - [DBUser_1  ] - ERROR - [Thread-sedeC-140527833966272] ❌ Error en operación 3: Unread result found
+2025-06-11 14:12:07,469 - [DBUser_1  ] - ERROR - [Thread-sedeC-140527833966272] ❌ Error en operación 4: Unread result found
+2025-06-11 14:12:07,471 - [DBUser_1  ] - INFO - [Thread-sedeC-140527833966272] 📝 USER_Thread-sedeC-140527833966272_1823 insertó log de operación 5
+2025-06-11 14:12:07,483 - [DBUser_4  ] - INFO - [Thread-sedeC-140527808788160] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-11 14:12:07,484 - [DBUser_4  ] - INFO - [Thread-sedeC-140527808788160] 👤 Usuario USER_Thread-sedeC-140527808788160_9707 conectado a sedeA
+2025-06-11 14:12:07,486 - [DBUser_4  ] - INFO - [Thread-sedeC-140527808788160] 👥 USER_Thread-sedeC-140527808788160_9707 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-11 14:12:07,548 - [DBUser_3  ] - INFO - [Thread-sedeA-140527817180864] 👥 USER_Thread-sedeA-140527817180864_8513 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-11 14:12:07,554 - [DBUser_5  ] - INFO - [Thread-sedeA-140527800395456] 🎯 Iniciando acceso preferido a sedeA
+2025-06-11 14:12:07,554 - [MainThread] - INFO - 🧵 Lanzado thread 6/15 para sedeA
+2025-06-11 14:12:07,554 - [DBUser_5  ] - INFO - [Thread-sedeA-140527800395456] 🚀 Usuario USER_Thread-sedeA-140527800395456_8505 iniciando sesión...
+2025-06-11 14:12:07,555 - [DBUser_5  ] - INFO - [Thread-sedeA-140527800395456] Intentando conectar a Database A (Sede Principal)...
+2025-06-11 14:12:07,573 - [DBUser_0  ] - ERROR - [Thread-sedeB-140527842358976] ❌ Error en operación 3: Unread result found
+2025-06-11 14:12:07,573 - [DBUser_0  ] - ERROR - [Thread-sedeB-140527842358976] ❌ Error en operación 4: Unread result found
+2025-06-11 14:12:07,573 - [DBUser_0  ] - ERROR - [Thread-sedeB-140527842358976] ❌ Error en operación 5: Unread result found
+2025-06-11 14:12:07,573 - [DBUser_0  ] - INFO - [Thread-sedeB-140527842358976] 📝 USER_Thread-sedeB-140527842358976_2007 insertó log de operación 6
+2025-06-11 14:12:07,578 - [DBUser_5  ] - INFO - [Thread-sedeA-140527800395456] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-11 14:12:07,578 - [DBUser_5  ] - INFO - [Thread-sedeA-140527800395456] 👤 Usuario USER_Thread-sedeA-140527800395456_8505 conectado a sedeA
+2025-06-11 14:12:07,579 - [DBUser_5  ] - INFO - [Thread-sedeA-140527800395456] 📝 USER_Thread-sedeA-140527800395456_8505 insertó log de operación 0
+2025-06-11 14:12:07,612 - [DBUser_1  ] - ERROR - [Thread-sedeC-140527833966272] ❌ Error en operación 6: Unread result found
+2025-06-11 14:12:07,612 - [DBUser_1  ] - INFO - [Thread-sedeC-140527833966272] 📝 USER_Thread-sedeC-140527833966272_1823 insertó log de operación 7
+2025-06-11 14:12:07,656 - [DBUser_6  ] - INFO - [Thread-sedeC-140527792002752] 🎯 Iniciando acceso preferido a sedeC
+2025-06-11 14:12:07,656 - [MainThread] - INFO - 🧵 Lanzado thread 7/15 para sedeC
+2025-06-11 14:12:07,656 - [DBUser_6  ] - INFO - [Thread-sedeC-140527792002752] 🚀 Usuario USER_Thread-sedeC-140527792002752_5339 iniciando sesión...
+2025-06-11 14:12:07,657 - [DBUser_6  ] - INFO - [Thread-sedeC-140527792002752] Intentando conectar a Database A (Sede Principal)...
+2025-06-11 14:12:07,678 - [DBUser_2  ] - ERROR - [Thread-sedeA-140527825573568] Error ejecutando consulta: Unread result found
+2025-06-11 14:12:07,678 - [DBUser_2  ] - ERROR - [Thread-sedeA-140527825573568] ❌ Error en operación 1: Unread result found
+2025-06-11 14:12:07,678 - [DBUser_2  ] - ERROR - [Thread-sedeA-140527825573568] ❌ Error en operación 2: Unread result found
+2025-06-11 14:12:07,678 - [DBUser_2  ] - INFO - [Thread-sedeA-140527825573568] 📝 USER_Thread-sedeA-140527825573568_9096 insertó log de operación 3
+2025-06-11 14:12:07,688 - [DBUser_6  ] - INFO - [Thread-sedeC-140527792002752] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-11 14:12:07,689 - [DBUser_6  ] - INFO - [Thread-sedeC-140527792002752] 👤 Usuario USER_Thread-sedeC-140527792002752_5339 conectado a sedeA
+2025-06-11 14:12:07,689 - [DBUser_6  ] - INFO - [Thread-sedeC-140527792002752] 📝 USER_Thread-sedeC-140527792002752_5339 insertó log de operación 0
+2025-06-11 14:12:07,742 - [DBUser_4  ] - INFO - [Thread-sedeC-140527808788160] 📝 USER_Thread-sedeC-140527808788160_9707 insertó log de operación 1
+2025-06-11 14:12:07,757 - [DBUser_7  ] - INFO - [Thread-sedeB-140527783610048] 🎯 Iniciando acceso preferido a sedeB
+2025-06-11 14:12:07,757 - [MainThread] - INFO - 🧵 Lanzado thread 8/15 para sedeB
+2025-06-11 14:12:07,758 - [DBUser_7  ] - INFO - [Thread-sedeB-140527783610048] 🚀 Usuario USER_Thread-sedeB-140527783610048_2995 iniciando sesión...
+2025-06-11 14:12:07,758 - [DBUser_7  ] - INFO - [Thread-sedeB-140527783610048] Intentando conectar a Database A (Sede Principal)...
+2025-06-11 14:12:07,787 - [DBUser_7  ] - INFO - [Thread-sedeB-140527783610048] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-11 14:12:07,787 - [DBUser_7  ] - INFO - [Thread-sedeB-140527783610048] 👤 Usuario USER_Thread-sedeB-140527783610048_2995 conectado a sedeA
+2025-06-11 14:12:07,790 - [DBUser_7  ] - INFO - [Thread-sedeB-140527783610048] 👥 USER_Thread-sedeB-140527783610048_2995 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-11 14:12:07,837 - [DBUser_1  ] - INFO - [Thread-sedeC-140527833966272] ✅ Usuario USER_Thread-sedeC-140527833966272_1823 completó 3/8 operaciones
+2025-06-11 14:12:07,838 - [DBUser_5  ] - INFO - [Thread-sedeA-140527800395456] 📝 USER_Thread-sedeA-140527800395456_8505 insertó log de operación 1
+2025-06-11 14:12:07,838 - [DBUser_1  ] - ERROR - [Thread-sedeC-140527833966272] ❌ Error crítico: Unread result found
+2025-06-11 14:12:07,858 - [MainThread] - INFO - 🧵 Lanzado thread 9/15 para sedeB
+2025-06-11 14:12:07,858 - [DBUser_1  ] - INFO - [Thread-sedeB-140527833966272] 🎯 Iniciando acceso preferido a sedeB
+2025-06-11 14:12:07,859 - [DBUser_1  ] - INFO - [Thread-sedeB-140527833966272] 🚀 Usuario USER_Thread-sedeB-140527833966272_8059 iniciando sesión...
+2025-06-11 14:12:07,859 - [DBUser_1  ] - INFO - [Thread-sedeB-140527833966272] Intentando conectar a Database A (Sede Principal)...
+2025-06-11 14:12:07,887 - [DBUser_1  ] - INFO - [Thread-sedeB-140527833966272] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-11 14:12:07,887 - [DBUser_1  ] - INFO - [Thread-sedeB-140527833966272] 👤 Usuario USER_Thread-sedeB-140527833966272_8059 conectado a sedeA
+2025-06-11 14:12:07,888 - [DBUser_1  ] - INFO - [Thread-sedeB-140527833966272] 📝 USER_Thread-sedeB-140527833966272_8059 insertó log de operación 0
+2025-06-11 14:12:07,898 - [DBUser_0  ] - ERROR - [Thread-sedeB-140527842358976] ❌ Error en operación 7: Unread result found
+2025-06-11 14:12:07,899 - [DBUser_0  ] - INFO - [Thread-sedeB-140527842358976] ✅ Usuario USER_Thread-sedeB-140527842358976_2007 completó 3/8 operaciones
+2025-06-11 14:12:07,899 - [DBUser_0  ] - ERROR - [Thread-sedeB-140527842358976] ❌ Error crítico: Unread result found
+2025-06-11 14:12:07,942 - [DBUser_3  ] - ERROR - [Thread-sedeA-140527817180864] Error ejecutando consulta: Unread result found
+2025-06-11 14:12:07,942 - [DBUser_3  ] - ERROR - [Thread-sedeA-140527817180864] ❌ Error en operación 2: Unread result found
+2025-06-11 14:12:07,942 - [DBUser_3  ] - ERROR - [Thread-sedeA-140527817180864] ❌ Error en operación 3: Unread result found
+2025-06-11 14:12:07,943 - [DBUser_3  ] - ERROR - [Thread-sedeA-140527817180864] ❌ Error en operación 4: Unread result found
+2025-06-11 14:12:07,943 - [DBUser_6  ] - ERROR - [Thread-sedeC-140527792002752] Error ejecutando consulta: Unread result found
+2025-06-11 14:12:07,943 - [DBUser_3  ] - ERROR - [Thread-sedeA-140527817180864] ❌ Error en operación 5: Unread result found
+2025-06-11 14:12:07,943 - [DBUser_6  ] - ERROR - [Thread-sedeC-140527792002752] ❌ Error en operación 1: Unread result found
+2025-06-11 14:12:07,943 - [DBUser_3  ] - ERROR - [Thread-sedeA-140527817180864] ❌ Error en operación 6: Unread result found
+2025-06-11 14:12:07,944 - [DBUser_6  ] - ERROR - [Thread-sedeC-140527792002752] ❌ Error en operación 2: Unread result found
+2025-06-11 14:12:07,944 - [DBUser_3  ] - ERROR - [Thread-sedeA-140527817180864] ❌ Error en operación 7: Unread result found
+2025-06-11 14:12:07,944 - [DBUser_6  ] - ERROR - [Thread-sedeC-140527792002752] ❌ Error en operación 3: Unread result found
+2025-06-11 14:12:07,944 - [DBUser_3  ] - INFO - [Thread-sedeA-140527817180864] ✅ Usuario USER_Thread-sedeA-140527817180864_8513 completó 2/8 operaciones
+2025-06-11 14:12:07,944 - [DBUser_6  ] - ERROR - [Thread-sedeC-140527792002752] ❌ Error en operación 4: Unread result found
+2025-06-11 14:12:07,944 - [DBUser_3  ] - ERROR - [Thread-sedeA-140527817180864] ❌ Error crítico: Unread result found
+2025-06-11 14:12:07,945 - [DBUser_6  ] - INFO - [Thread-sedeC-140527792002752] 📝 USER_Thread-sedeC-140527792002752_5339 insertó log de operación 5
+2025-06-11 14:12:07,954 - [DBUser_4  ] - INFO - [Thread-sedeC-140527808788160] 💰 USER_Thread-sedeC-140527808788160_9707 consultó ventas en venta_tickets
+2025-06-11 14:12:07,959 - [MainThread] - INFO - 🧵 Lanzado thread 10/15 para sedeA
+2025-06-11 14:12:07,959 - [DBUser_0  ] - INFO - [Thread-sedeA-140527842358976] 🎯 Iniciando acceso preferido a sedeA
+2025-06-11 14:12:07,960 - [DBUser_0  ] - INFO - [Thread-sedeA-140527842358976] 🚀 Usuario USER_Thread-sedeA-140527842358976_1608 iniciando sesión...
+2025-06-11 14:12:07,960 - [DBUser_0  ] - INFO - [Thread-sedeA-140527842358976] Intentando conectar a Database A (Sede Principal)...
+2025-06-11 14:12:07,986 - [DBUser_2  ] - ERROR - [Thread-sedeA-140527825573568] ❌ Error en operación 4: Unread result found
+2025-06-11 14:12:07,987 - [DBUser_2  ] - ERROR - [Thread-sedeA-140527825573568] ❌ Error en operación 5: Unread result found
+2025-06-11 14:12:07,987 - [DBUser_2  ] - ERROR - [Thread-sedeA-140527825573568] ❌ Error en operación 6: Unread result found
+2025-06-11 14:12:07,987 - [DBUser_2  ] - ERROR - [Thread-sedeA-140527825573568] ❌ Error en operación 7: Unread result found
+2025-06-11 14:12:07,987 - [DBUser_2  ] - INFO - [Thread-sedeA-140527825573568] ✅ Usuario USER_Thread-sedeA-140527825573568_9096 completó 2/8 operaciones
+2025-06-11 14:12:07,987 - [DBUser_0  ] - INFO - [Thread-sedeA-140527842358976] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-11 14:12:07,988 - [DBUser_2  ] - ERROR - [Thread-sedeA-140527825573568] ❌ Error crítico: Unread result found
+2025-06-11 14:12:07,988 - [DBUser_0  ] - INFO - [Thread-sedeA-140527842358976] 👤 Usuario USER_Thread-sedeA-140527842358976_1608 conectado a sedeA
+2025-06-11 14:12:07,988 - [DBUser_0  ] - INFO - [Thread-sedeA-140527842358976] 📝 USER_Thread-sedeA-140527842358976_1608 insertó log de operación 0
+2025-06-11 14:12:08,060 - [MainThread] - INFO - 🧵 Lanzado thread 11/15 para sedeC
+2025-06-11 14:12:08,060 - [DBUser_3  ] - INFO - [Thread-sedeC-140527817180864] 🎯 Iniciando acceso preferido a sedeC
+2025-06-11 14:12:08,061 - [DBUser_3  ] - INFO - [Thread-sedeC-140527817180864] 🚀 Usuario USER_Thread-sedeC-140527817180864_4137 iniciando sesión...
+2025-06-11 14:12:08,061 - [DBUser_3  ] - INFO - [Thread-sedeC-140527817180864] Intentando conectar a Database A (Sede Principal)...
+2025-06-11 14:12:08,084 - [DBUser_3  ] - INFO - [Thread-sedeC-140527817180864] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-11 14:12:08,084 - [DBUser_3  ] - INFO - [Thread-sedeC-140527817180864] 👤 Usuario USER_Thread-sedeC-140527817180864_4137 conectado a sedeA
+2025-06-11 14:12:08,087 - [DBUser_3  ] - INFO - [Thread-sedeC-140527817180864] 💰 USER_Thread-sedeC-140527817180864_4137 consultó ventas en venta_tickets
+2025-06-11 14:12:08,099 - [DBUser_7  ] - INFO - [Thread-sedeB-140527783610048] 💰 USER_Thread-sedeB-140527783610048_2995 consultó ventas en venta_tickets
+2025-06-11 14:12:08,114 - [DBUser_0  ] - INFO - [Thread-sedeA-140527842358976] 👥 USER_Thread-sedeA-140527842358976_1608 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-11 14:12:08,161 - [MainThread] - INFO - 🧵 Lanzado thread 12/15 para sedeC
+2025-06-11 14:12:08,161 - [DBUser_2  ] - INFO - [Thread-sedeC-140527825573568] 🎯 Iniciando acceso preferido a sedeC
+2025-06-11 14:12:08,162 - [DBUser_2  ] - INFO - [Thread-sedeC-140527825573568] 🚀 Usuario USER_Thread-sedeC-140527825573568_3347 iniciando sesión...
+2025-06-11 14:12:08,162 - [DBUser_2  ] - INFO - [Thread-sedeC-140527825573568] Intentando conectar a Database A (Sede Principal)...
+2025-06-11 14:12:08,216 - [DBUser_2  ] - INFO - [Thread-sedeC-140527825573568] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-11 14:12:08,216 - [DBUser_2  ] - INFO - [Thread-sedeC-140527825573568] 👤 Usuario USER_Thread-sedeC-140527825573568_3347 conectado a sedeA
+2025-06-11 14:12:08,220 - [DBUser_2  ] - INFO - [Thread-sedeC-140527825573568] 💰 USER_Thread-sedeC-140527825573568_3347 consultó ventas en venta_tickets
+2025-06-11 14:12:08,228 - [DBUser_6  ] - INFO - [Thread-sedeC-140527792002752] 📝 USER_Thread-sedeC-140527792002752_5339 insertó log de operación 6
+2025-06-11 14:12:08,229 - [DBUser_4  ] - ERROR - [Thread-sedeC-140527808788160] Error ejecutando consulta: Unread result found
+2025-06-11 14:12:08,230 - [DBUser_4  ] - ERROR - [Thread-sedeC-140527808788160] ❌ Error en operación 3: Unread result found
+2025-06-11 14:12:08,230 - [DBUser_4  ] - ERROR - [Thread-sedeC-140527808788160] ❌ Error en operación 4: Unread result found
+2025-06-11 14:12:08,230 - [DBUser_4  ] - ERROR - [Thread-sedeC-140527808788160] ❌ Error en operación 5: Unread result found
+2025-06-11 14:12:08,230 - [DBUser_4  ] - INFO - [Thread-sedeC-140527808788160] 📝 USER_Thread-sedeC-140527808788160_9707 insertó log de operación 6
+2025-06-11 14:12:08,241 - [DBUser_3  ] - INFO - [Thread-sedeC-140527817180864] 📝 USER_Thread-sedeC-140527817180864_4137 insertó log de operación 1
+2025-06-11 14:12:08,246 - [DBUser_0  ] - ERROR - [Thread-sedeA-140527842358976] Error ejecutando consulta: Unread result found
+2025-06-11 14:12:08,246 - [DBUser_0  ] - ERROR - [Thread-sedeA-140527842358976] ❌ Error en operación 2: Unread result found
+2025-06-11 14:12:08,246 - [DBUser_0  ] - ERROR - [Thread-sedeA-140527842358976] ❌ Error en operación 3: Unread result found
+2025-06-11 14:12:08,246 - [DBUser_0  ] - INFO - [Thread-sedeA-140527842358976] 📝 USER_Thread-sedeA-140527842358976_1608 insertó log de operación 4
+2025-06-11 14:12:08,262 - [DBUser_8  ] - INFO - [Thread-sedeB-140527303390912] 🎯 Iniciando acceso preferido a sedeB
+2025-06-11 14:12:08,262 - [MainThread] - INFO - 🧵 Lanzado thread 13/15 para sedeB
+2025-06-11 14:12:08,263 - [DBUser_8  ] - INFO - [Thread-sedeB-140527303390912] 🚀 Usuario USER_Thread-sedeB-140527303390912_4625 iniciando sesión...
+2025-06-11 14:12:08,263 - [DBUser_8  ] - INFO - [Thread-sedeB-140527303390912] Intentando conectar a Database A (Sede Principal)...
+2025-06-11 14:12:08,297 - [DBUser_5  ] - INFO - [Thread-sedeA-140527800395456] 💰 USER_Thread-sedeA-140527800395456_8505 consultó ventas en venta_tickets
+2025-06-11 14:12:08,301 - [DBUser_8  ] - INFO - [Thread-sedeB-140527303390912] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-11 14:12:08,302 - [DBUser_8  ] - INFO - [Thread-sedeB-140527303390912] 👤 Usuario USER_Thread-sedeB-140527303390912_4625 conectado a sedeA
+2025-06-11 14:12:08,304 - [DBUser_8  ] - INFO - [Thread-sedeB-140527303390912] 👥 USER_Thread-sedeB-140527303390912_4625 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-11 14:12:08,346 - [DBUser_7  ] - INFO - [Thread-sedeB-140527783610048] 💰 USER_Thread-sedeB-140527783610048_2995 consultó ventas en venta_tickets
+2025-06-11 14:12:08,364 - [DBUser_9  ] - INFO - [Thread-sedeA-140527294998208] 🎯 Iniciando acceso preferido a sedeA
+2025-06-11 14:12:08,364 - [MainThread] - INFO - 🧵 Lanzado thread 14/15 para sedeA
+2025-06-11 14:12:08,364 - [DBUser_9  ] - INFO - [Thread-sedeA-140527294998208] 🚀 Usuario USER_Thread-sedeA-140527294998208_7476 iniciando sesión...
+2025-06-11 14:12:08,364 - [DBUser_9  ] - INFO - [Thread-sedeA-140527294998208] Intentando conectar a Database A (Sede Principal)...
+2025-06-11 14:12:08,383 - [DBUser_1  ] - INFO - [Thread-sedeB-140527833966272] 👥 USER_Thread-sedeB-140527833966272_8059 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-11 14:12:08,387 - [DBUser_6  ] - ERROR - [Thread-sedeC-140527792002752] ❌ Error en operación 7: Unread result found
+2025-06-11 14:12:08,387 - [DBUser_6  ] - INFO - [Thread-sedeC-140527792002752] ✅ Usuario USER_Thread-sedeC-140527792002752_5339 completó 3/8 operaciones
+2025-06-11 14:12:08,387 - [DBUser_6  ] - ERROR - [Thread-sedeC-140527792002752] ❌ Error crítico: Unread result found
+2025-06-11 14:12:08,390 - [DBUser_9  ] - INFO - [Thread-sedeA-140527294998208] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-11 14:12:08,391 - [DBUser_9  ] - INFO - [Thread-sedeA-140527294998208] 👤 Usuario USER_Thread-sedeA-140527294998208_7476 conectado a sedeA
+2025-06-11 14:12:08,393 - [DBUser_9  ] - ERROR - [Thread-sedeA-140527294998208] Error ejecutando consulta: Unread result found
+2025-06-11 14:12:08,393 - [DBUser_9  ] - ERROR - [Thread-sedeA-140527294998208] ❌ Error en operación 0: Unread result found
+2025-06-11 14:12:08,393 - [DBUser_9  ] - ERROR - [Thread-sedeA-140527294998208] ❌ Error en operación 1: Unread result found
+2025-06-11 14:12:08,393 - [DBUser_9  ] - INFO - [Thread-sedeA-140527294998208] 📝 USER_Thread-sedeA-140527294998208_7476 insertó log de operación 2
+2025-06-11 14:12:08,465 - [MainThread] - INFO - 🧵 Lanzado thread 15/15 para sedeB
+2025-06-11 14:12:08,465 - [DBUser_6  ] - INFO - [Thread-sedeB-140527792002752] 🎯 Iniciando acceso preferido a sedeB
+2025-06-11 14:12:08,466 - [DBUser_6  ] - INFO - [Thread-sedeB-140527792002752] 🚀 Usuario USER_Thread-sedeB-140527792002752_5947 iniciando sesión...
+2025-06-11 14:12:08,466 - [DBUser_6  ] - INFO - [Thread-sedeB-140527792002752] Intentando conectar a Database A (Sede Principal)...
+2025-06-11 14:12:08,491 - [DBUser_4  ] - INFO - [Thread-sedeC-140527808788160] 📝 USER_Thread-sedeC-140527808788160_9707 insertó log de operación 7
+2025-06-11 14:12:08,499 - [DBUser_6  ] - INFO - [Thread-sedeB-140527792002752] ✅ CONEXIÓN EXITOSA a Database A (Sede Principal)
+2025-06-11 14:12:08,499 - [DBUser_6  ] - INFO - [Thread-sedeB-140527792002752] 👤 Usuario USER_Thread-sedeB-140527792002752_5947 conectado a sedeA
+2025-06-11 14:12:08,499 - [DBUser_6  ] - INFO - [Thread-sedeB-140527792002752] 📝 USER_Thread-sedeB-140527792002752_5947 insertó log de operación 0
+2025-06-11 14:12:08,532 - [DBUser_3  ] - INFO - [Thread-sedeC-140527817180864] 👥 USER_Thread-sedeC-140527817180864_4137 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-11 14:12:08,543 - [DBUser_9  ] - INFO - [Thread-sedeA-140527294998208] 📝 USER_Thread-sedeA-140527294998208_7476 insertó log de operación 3
+2025-06-11 14:12:08,584 - [DBUser_7  ] - INFO - [Thread-sedeB-140527783610048] 📝 USER_Thread-sedeB-140527783610048_2995 insertó log de operación 3
+2025-06-11 14:12:08,595 - [DBUser_2  ] - ERROR - [Thread-sedeC-140527825573568] Error ejecutando consulta: Unread result found
+2025-06-11 14:12:08,595 - [DBUser_2  ] - ERROR - [Thread-sedeC-140527825573568] ❌ Error en operación 1: Unread result found
+2025-06-11 14:12:08,595 - [DBUser_2  ] - ERROR - [Thread-sedeC-140527825573568] ❌ Error en operación 2: Unread result found
+2025-06-11 14:12:08,595 - [DBUser_2  ] - ERROR - [Thread-sedeC-140527825573568] ❌ Error en operación 3: Unread result found
+2025-06-11 14:12:08,596 - [DBUser_2  ] - ERROR - [Thread-sedeC-140527825573568] ❌ Error en operación 4: Unread result found
+2025-06-11 14:12:08,596 - [DBUser_2  ] - ERROR - [Thread-sedeC-140527825573568] ❌ Error en operación 5: Unread result found
+2025-06-11 14:12:08,596 - [DBUser_2  ] - INFO - [Thread-sedeC-140527825573568] 📝 USER_Thread-sedeC-140527825573568_3347 insertó log de operación 6
+2025-06-11 14:12:08,707 - [DBUser_2  ] - ERROR - [Thread-sedeC-140527825573568] ❌ Error en operación 7: Unread result found
+2025-06-11 14:12:08,707 - [DBUser_2  ] - INFO - [Thread-sedeC-140527825573568] ✅ Usuario USER_Thread-sedeC-140527825573568_3347 completó 2/8 operaciones
+2025-06-11 14:12:08,707 - [DBUser_2  ] - ERROR - [Thread-sedeC-140527825573568] ❌ Error crítico: Unread result found
+2025-06-11 14:12:08,710 - [DBUser_0  ] - INFO - [Thread-sedeA-140527842358976] 📝 USER_Thread-sedeA-140527842358976_1608 insertó log de operación 5
+2025-06-11 14:12:08,719 - [DBUser_1  ] - INFO - [Thread-sedeB-140527833966272] 📝 USER_Thread-sedeB-140527833966272_8059 insertó log de operación 2
+2025-06-11 14:12:08,771 - [DBUser_8  ] - INFO - [Thread-sedeB-140527303390912] 💰 USER_Thread-sedeB-140527303390912_4625 consultó ventas en venta_tickets
+2025-06-11 14:12:08,774 - [DBUser_5  ] - INFO - [Thread-sedeA-140527800395456] 👥 USER_Thread-sedeA-140527800395456_8505 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-11 14:12:08,776 - [DBUser_4  ] - INFO - [Thread-sedeC-140527808788160] ✅ Usuario USER_Thread-sedeC-140527808788160_9707 completó 5/8 operaciones
+2025-06-11 14:12:08,776 - [DBUser_4  ] - ERROR - [Thread-sedeC-140527808788160] ❌ Error crítico: Unread result found
+2025-06-11 14:12:08,886 - [DBUser_8  ] - ERROR - [Thread-sedeB-140527303390912] Error ejecutando consulta: Unread result found
+2025-06-11 14:12:08,886 - [DBUser_8  ] - ERROR - [Thread-sedeB-140527303390912] ❌ Error en operación 2: Unread result found
+2025-06-11 14:12:08,886 - [DBUser_8  ] - INFO - [Thread-sedeB-140527303390912] 📝 USER_Thread-sedeB-140527303390912_4625 insertó log de operación 3
+2025-06-11 14:12:08,903 - [DBUser_3  ] - ERROR - [Thread-sedeC-140527817180864] Error ejecutando consulta: Unread result found
+2025-06-11 14:12:08,903 - [DBUser_3  ] - ERROR - [Thread-sedeC-140527817180864] ❌ Error en operación 3: Unread result found
+2025-06-11 14:12:08,903 - [DBUser_3  ] - INFO - [Thread-sedeC-140527817180864] 📝 USER_Thread-sedeC-140527817180864_4137 insertó log de operación 4
+2025-06-11 14:12:08,946 - [DBUser_7  ] - INFO - [Thread-sedeB-140527783610048] 💰 USER_Thread-sedeB-140527783610048_2995 consultó ventas en venta_tickets
+2025-06-11 14:12:08,982 - [DBUser_6  ] - INFO - [Thread-sedeB-140527792002752] 💰 USER_Thread-sedeB-140527792002752_5947 consultó ventas en venta_tickets
+2025-06-11 14:12:08,988 - [DBUser_9  ] - INFO - [Thread-sedeA-140527294998208] 📝 USER_Thread-sedeA-140527294998208_7476 insertó log de operación 4
+2025-06-11 14:12:09,028 - [DBUser_5  ] - ERROR - [Thread-sedeA-140527800395456] Error ejecutando consulta: Unread result found
+2025-06-11 14:12:09,028 - [DBUser_5  ] - ERROR - [Thread-sedeA-140527800395456] ❌ Error en operación 4: Unread result found
+2025-06-11 14:12:09,028 - [DBUser_5  ] - INFO - [Thread-sedeA-140527800395456] 📝 USER_Thread-sedeA-140527800395456_8505 insertó log de operación 5
+2025-06-11 14:12:09,073 - [DBUser_0  ] - INFO - [Thread-sedeA-140527842358976] 📝 USER_Thread-sedeA-140527842358976_1608 insertó log de operación 6
+2025-06-11 14:12:09,119 - [DBUser_6  ] - INFO - [Thread-sedeB-140527792002752] 👥 USER_Thread-sedeB-140527792002752_5947 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-11 14:12:09,172 - [DBUser_1  ] - INFO - [Thread-sedeB-140527833966272] 👥 USER_Thread-sedeB-140527833966272_8059 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-11 14:12:09,290 - [DBUser_8  ] - INFO - [Thread-sedeB-140527303390912] 📝 USER_Thread-sedeB-140527303390912_4625 insertó log de operación 4
+2025-06-11 14:12:09,295 - [DBUser_3  ] - INFO - [Thread-sedeC-140527817180864] 📝 USER_Thread-sedeC-140527817180864_4137 insertó log de operación 5
+2025-06-11 14:12:09,323 - [DBUser_7  ] - INFO - [Thread-sedeB-140527783610048] 📝 USER_Thread-sedeB-140527783610048_2995 insertó log de operación 5
+2025-06-11 14:12:09,646 - [DBUser_9  ] - ERROR - [Thread-sedeA-140527294998208] ❌ Error en operación 5: Unread result found
+2025-06-11 14:12:09,649 - [DBUser_0  ] - ERROR - [Thread-sedeA-140527842358976] ❌ Error en operación 7: Unread result found
+2025-06-11 14:12:09,649 - [DBUser_3  ] - INFO - [Thread-sedeC-140527817180864] 📝 USER_Thread-sedeC-140527817180864_4137 insertó log de operación 6
+2025-06-11 14:12:09,649 - [DBUser_5  ] - ERROR - [Thread-sedeA-140527800395456] ❌ Error en operación 6: Unread result found
+2025-06-11 14:12:09,660 - [DBUser_9  ] - ERROR - [Thread-sedeA-140527294998208] ❌ Error en operación 6: Unread result found
+2025-06-11 14:12:09,660 - [DBUser_6  ] - INFO - [Thread-sedeB-140527792002752] 💰 USER_Thread-sedeB-140527792002752_5947 consultó ventas en venta_tickets
+2025-06-11 14:12:09,661 - [DBUser_0  ] - INFO - [Thread-sedeA-140527842358976] ✅ Usuario USER_Thread-sedeA-140527842358976_1608 completó 5/8 operaciones
+2025-06-11 14:12:09,661 - [DBUser_1  ] - INFO - [Thread-sedeB-140527833966272] 👥 USER_Thread-sedeB-140527833966272_8059 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-11 14:12:09,662 - [DBUser_7  ] - ERROR - [Thread-sedeB-140527783610048] Error ejecutando consulta: Unread result found
+2025-06-11 14:12:09,662 - [DBUser_5  ] - ERROR - [Thread-sedeA-140527800395456] ❌ Error en operación 7: Unread result found
+2025-06-11 14:12:09,663 - [DBUser_9  ] - ERROR - [Thread-sedeA-140527294998208] ❌ Error en operación 7: Unread result found
+2025-06-11 14:12:09,663 - [DBUser_0  ] - ERROR - [Thread-sedeA-140527842358976] ❌ Error crítico: Unread result found
+2025-06-11 14:12:09,664 - [DBUser_7  ] - ERROR - [Thread-sedeB-140527783610048] ❌ Error en operación 6: Unread result found
+2025-06-11 14:12:09,664 - [DBUser_5  ] - INFO - [Thread-sedeA-140527800395456] ✅ Usuario USER_Thread-sedeA-140527800395456_8505 completó 5/8 operaciones
+2025-06-11 14:12:09,664 - [DBUser_9  ] - INFO - [Thread-sedeA-140527294998208] ✅ Usuario USER_Thread-sedeA-140527294998208_7476 completó 3/8 operaciones
+2025-06-11 14:12:09,665 - [DBUser_7  ] - INFO - [Thread-sedeB-140527783610048] 📝 USER_Thread-sedeB-140527783610048_2995 insertó log de operación 7
+2025-06-11 14:12:09,665 - [DBUser_5  ] - ERROR - [Thread-sedeA-140527800395456] ❌ Error crítico: Unread result found
+2025-06-11 14:12:09,665 - [DBUser_9  ] - ERROR - [Thread-sedeA-140527294998208] ❌ Error crítico: Unread result found
+2025-06-11 14:12:09,779 - [DBUser_8  ] - ERROR - [Thread-sedeB-140527303390912] ❌ Error en operación 5: Unread result found
+2025-06-11 14:12:09,779 - [DBUser_8  ] - ERROR - [Thread-sedeB-140527303390912] ❌ Error en operación 6: Unread result found
+2025-06-11 14:12:09,779 - [DBUser_8  ] - ERROR - [Thread-sedeB-140527303390912] ❌ Error en operación 7: Unread result found
+2025-06-11 14:12:09,782 - [DBUser_8  ] - INFO - [Thread-sedeB-140527303390912] ✅ Usuario USER_Thread-sedeB-140527303390912_4625 completó 4/8 operaciones
+2025-06-11 14:12:09,782 - [DBUser_8  ] - ERROR - [Thread-sedeB-140527303390912] ❌ Error crítico: Unread result found
+2025-06-11 14:12:09,783 - [DBUser_6  ] - INFO - [Thread-sedeB-140527792002752] 👥 USER_Thread-sedeB-140527792002752_5947 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-11 14:12:09,891 - [DBUser_7  ] - INFO - [Thread-sedeB-140527783610048] ✅ Usuario USER_Thread-sedeB-140527783610048_2995 completó 7/8 operaciones
+2025-06-11 14:12:09,891 - [DBUser_7  ] - ERROR - [Thread-sedeB-140527783610048] ❌ Error crítico: Unread result found
+2025-06-11 14:12:09,892 - [DBUser_1  ] - INFO - [Thread-sedeB-140527833966272] 👥 USER_Thread-sedeB-140527833966272_8059 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-11 14:12:10,079 - [DBUser_3  ] - ERROR - [Thread-sedeC-140527817180864] ❌ Error en operación 7: Unread result found
+2025-06-11 14:12:10,080 - [DBUser_3  ] - INFO - [Thread-sedeC-140527817180864] ✅ Usuario USER_Thread-sedeC-140527817180864_4137 completó 6/8 operaciones
+2025-06-11 14:12:10,080 - [DBUser_3  ] - ERROR - [Thread-sedeC-140527817180864] ❌ Error crítico: Unread result found
+2025-06-11 14:12:10,134 - [DBUser_6  ] - INFO - [Thread-sedeB-140527792002752] 💰 USER_Thread-sedeB-140527792002752_5947 consultó ventas en venta_tickets
+2025-06-11 14:12:10,292 - [DBUser_1  ] - INFO - [Thread-sedeB-140527833966272] 📝 USER_Thread-sedeB-140527833966272_8059 insertó log de operación 6
+2025-06-11 14:12:10,517 - [DBUser_6  ] - INFO - [Thread-sedeB-140527792002752] 📝 USER_Thread-sedeB-140527792002752_5947 insertó log de operación 6
+2025-06-11 14:12:10,687 - [DBUser_1  ] - INFO - [Thread-sedeB-140527833966272] 👥 USER_Thread-sedeB-140527833966272_8059 consultó versión: 10.5.29-MariaDB-ubu2004
+2025-06-11 14:12:10,814 - [DBUser_1  ] - INFO - [Thread-sedeB-140527833966272] ✅ Usuario USER_Thread-sedeB-140527833966272_8059 completó 8/8 operaciones
+2025-06-11 14:12:10,820 - [DBUser_1  ] - INFO - [Thread-sedeB-140527833966272] 🔌 Conexión cerrada
+2025-06-11 14:12:11,000 - [DBUser_6  ] - INFO - [Thread-sedeB-140527792002752] 💰 USER_Thread-sedeB-140527792002752_5947 consultó ventas en venta_tickets
+2025-06-11 14:12:11,289 - [DBUser_6  ] - INFO - [Thread-sedeB-140527792002752] ✅ Usuario USER_Thread-sedeB-140527792002752_5947 completó 8/8 operaciones
+2025-06-11 14:12:11,298 - [DBUser_6  ] - INFO - [Thread-sedeB-140527792002752] 🔌 Conexión cerrada
